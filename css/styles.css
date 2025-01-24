@@ -1,0 +1,19 @@
+div{
+    background-color: red;
+}
+
+.other{
+    background-color: green;
+}
+
+#mytext{
+    background-color: blue;
+}
+
+a{
+    color: aqua;
+}
+
+a:visited{
+    color: chocolate;
+}
